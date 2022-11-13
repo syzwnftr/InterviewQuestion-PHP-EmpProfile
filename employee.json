@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Robert Kane",
+        "email": "robertkane@mai.com",
+        "phone": "0144443344",
+        "gender": "Male",
+        "address": "56 Jln 14\/48 Seksyen 14 Petaling Jaya\r\n 46100, Petaling Jaya \r\nSelangor ",
+        "hired_date": "2022-11-30",
+        "birth_date": "2022-11-01",
+        "status": "Married",
+        "department": "Asset Management",
+        "nationality": "Argentina"
+    },
+    {
+        "name": "Lim Siew Fong",
+        "email": "something@email.com",
+        "phone": "0144443344",
+        "gender": "Male",
+        "address": "3 20 Jln 10\/116B Kuchai Intrepreneur Park \r\nKuala Lumpur 58200 \r\nWilayah Persekutuan ",
+        "hired_date": "2022-11-22",
+        "birth_date": "2022-11-01",
+        "status": "Single",
+        "department": "Business Development",
+        "nationality": "China"
+    },
+    {
+        "name": "Nur Amirah",
+        "email": "amirah@mailme.com",
+        "phone": "011-1112313",
+        "gender": "Female",
+        "address": "112\/3 Jalan Lipis Batu 1\/4\r\n27600\r\nRaub Pahang",
+        "hired_date": "2022-11-18",
+        "birth_date": "2022-11-03",
+        "status": "Single",
+        "department": "Engineering",
+        "nationality": "Indonesia"
+    },
+    {
+        "name": "Mary Jane",
+        "email": "jane@mail.com",
+        "phone": "0144443344",
+        "gender": "Female",
+        "address": "43 Jalan 27 Desa Jaya Kepong\r\n52100, Kuala Lumpur \r\nWilayah Persekutuan ",
+        "hired_date": "2022-11-23",
+        "birth_date": "2022-11-23",
+        "status": "Married",
+        "department": "Finance \/ Accounting",
+        "nationality": "Hungary"
+    },
+    {
+        "name": "Muthusamy",
+        "email": "muthusam@mailme.com",
+        "phone": "0144443344",
+        "gender": "Male",
+        "address": " 375A Jalan Silibin Taman Saz\r\n30100, Ipoh \r\nPerak\r\n",
+        "hired_date": "2022-11-10",
+        "birth_date": "2022-11-16",
+        "status": "Single",
+        "department": "IT",
+        "nationality": "Malaysia"
+    }
+]
